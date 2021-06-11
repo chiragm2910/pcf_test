@@ -1,6 +1,14 @@
 # Customer App
 
-It is a test project.
+A simple Django application with the following features:
+
+    1. An AJAX form which creates a record with the following fields:
+      * Customer Name
+      * Email Address
+      * Subscription Type
+
+    2. Displaying the records entered on each submission .
+    3. Store the records persistently using a Django model.
 
 ## Requirements
 
